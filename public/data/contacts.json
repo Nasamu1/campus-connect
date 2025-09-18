@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Vanguard University",
+    "designation": "Official Contact",
+    "department": "Administration",
+    "phone": "+234-800-123-4567",
+    "email": "info@vanguard.edu",
+    "special": true
+  },
+  {
+    "name": "Dr. Alice Johnson",
+    "designation": "Faculty Coordinator",
+    "department": "Computer Science",
+    "phone": "+234-801-234-5678",
+    "email": "alice.johnson@vanguard.edu"
+  },
+  {
+    "name": "Prof. Michael Adeyemi",
+    "designation": "Faculty Coordinator",
+    "department": "Physical Education",
+    "phone": "+234-802-987-6543",
+    "email": "michael.adeyemi@vanguard.edu"
+  },
+  {
+    "name": "Sarah Okafor",
+    "designation": "Student Coordinator",
+    "department": "Arts & Culture",
+    "phone": "+234-803-112-2233",
+    "email": "sarah.okafor@student.vanguard.edu"
+  },
+  {
+    "name": "David Mensah",
+    "designation": "Student Coordinator",
+    "department": "Entrepreneurship",
+    "phone": "+234-804-445-6677",
+    "email": "david.mensah@student.vanguard.edu"
+  },
+  {
+    "name": "Fatima Bello",
+    "designation": "Student Coordinator",
+    "department": "Health Sciences",
+    "phone": "+234-805-778-8899",
+    "email": "fatima.bello@student.vanguard.edu"
+  }
+]

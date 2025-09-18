@@ -1,0 +1,443 @@
+[
+  {
+    "id": 1,
+    "title": "AI & Robotics Expo",
+    "year": "2024",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/AI & Robotics Expo (1).webp"
+  },
+  {
+    "id": 2,
+    "title": "AI & Robotics Expo",
+    "year": "2024",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/AI & Robotics Expo (2).webp"
+  },
+  {
+    "id": 3,
+    "title": "AI & Robotics Expo",
+    "year": "2024",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/AI & Robotics Expo (3).webp"
+  },
+  {
+    "id": 4,
+    "title": "Alumni Meet 2026",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Alumni Meet 2026 (1).webp"
+  },
+  {
+    "id": 5,
+    "title": "Alumni Meet 2026",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Alumni Meet 2026 (2).webp"
+  },
+  {
+    "id": 6,
+    "title": "Blood Donation Drive",
+    "year": "2025",
+    "category": "Health",
+    "imageUrl": "public/assets/gallery/Blood Donation Drive (1).webp"
+  },
+  {
+    "id": 7,
+    "title": "Blood Donation Drive",
+    "year": "2025",
+    "category": "Health",
+    "imageUrl": "public/assets/gallery/Blood Donation Drive (2).webp"
+  },
+  {
+    "id": 8,
+    "title": "Book Fair & Author Talks",
+    "year": "2025",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Book Fair & Author Talks (1).webp"
+  },
+  {
+    "id": 9,
+    "title": "Book Fair & Author Talks",
+    "year": "2025",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Book Fair & Author Talks (2).webp"
+  },
+  {
+    "id": 10,
+    "title": "Chess Championship",
+    "year": "2025",
+    "category": "Sports",
+    "imageUrl": "public/assets/gallery/Chess Championship (1).webp"
+  },
+  {
+    "id": 11,
+    "title": "Chess Championship",
+    "year": "2025",
+    "category": "Sports",
+    "imageUrl": "public/assets/gallery/Chess Championship (2).webp"
+  },
+  {
+    "id": 12,
+    "title": "Code Clash 2026",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Code Clash 2026 (1).webp"
+  },
+  {
+    "id": 13,
+    "title": "Code Clash 2026",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Code Clash 2026 (2).webp"
+  },
+  {
+    "id": 14,
+    "title": "Cultural Dance Festival",
+    "year": "2026",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Cultural Dance Festival (1).webp"
+  },
+  {
+    "id": 15,
+    "title": "Cultural Dance Festival",
+    "year": "2026",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Cultural Dance Festival (2).webp"
+  },
+  {
+    "id": 16,
+    "title": "Cultural Fashion Show",
+    "year": "2025",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Cultural Fashion Show (1).webp"
+  },
+  {
+    "id": 17,
+    "title": "Cultural Fashion Show",
+    "year": "2025",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Cultural Fashion Show (2).webp"
+  },
+  {
+    "id": 18,
+    "title": "Cultural Fashion Show",
+    "year": "2025",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Cultural Fashion Show (3).webp"
+  },
+  {
+    "id": 19,
+    "title": "Cultural Fusion Fest",
+    "year": "2026",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Cultural Fusion Fest (1).webp"
+  },
+  {
+    "id": 20,
+    "title": "Cultural Fusion Fest",
+    "year": "2026",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Cultural Fusion Fest (2).webp"
+  },
+  {
+    "id": 21,
+    "title": "Cultural Storytelling Night",
+    "year": "2026",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Cultural Storytelling Night (1).webp"
+  },
+  {
+    "id": 22,
+    "title": "Cultural Storytelling Night",
+    "year": "2026",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Cultural Storytelling Night (2).webp"
+  },
+  {
+    "id": 23,
+    "title": "Drama Night",
+    "year": "2025",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Drama Night (1).webp"
+  },
+  {
+    "id": 24,
+    "title": "Drama Night",
+    "year": "2025",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Drama Night (2).webp"
+  },
+  {
+    "id": 25,
+    "title": "Drama Night",
+    "year": "2025",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Drama Night (3).webp"
+  },
+  {
+    "id": 26,
+    "title": "EASports Championship",
+    "year": "2026",
+    "category": "Sports",
+    "imageUrl": "public/assets/gallery/EASports Championship (1).webp"
+  },
+  {
+    "id": 27,
+    "title": "EASports Championship",
+    "year": "2026",
+    "category": "Sports",
+    "imageUrl": "public/assets/gallery/EASports Championship (2).webp"
+  },
+  {
+    "id": 28,
+    "title": "Entrepreneurship Bootcamp",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Entrepreneurship Bootcamp (1).webp"
+  },
+  {
+    "id": 29,
+    "title": "Entrepreneurship Bootcamp",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Entrepreneurship Bootcamp (2).webp"
+  },
+  {
+    "id": 30,
+    "title": "Faculty Research Symposium",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Faculty Research Symposium (1).webp"
+  },
+  {
+    "id": 31,
+    "title": "Faculty Research Symposium",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Faculty Research Symposium (2).webp"
+  },
+  {
+    "id": 32,
+    "title": "Film & Media Fest",
+    "year": "2025",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Film & Media Fest (1).webp"
+  },
+  {
+    "id": 33,
+    "title": "Film & Media Fest",
+    "year": "2025",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Film & Media Fest (2).webp"
+  },
+  {
+    "id": 34,
+    "title": "Global Food Carnival",
+    "year": "2026",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Global Food Carnival (1).webp"
+  },
+  {
+    "id": 35,
+    "title": "Global Food Carnival",
+    "year": "2026",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Global Food Carnival (2).webp"
+  },
+  {
+    "id": 36,
+    "title": "Graduation Day 2025",
+    "year": "2025",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Graduation Day 2025 (1).webp"
+  },
+  {
+    "id": 37,
+    "title": "Graduation Day 2025",
+    "year": "2025",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Graduation Day 2025 (2).webp"
+  },
+  {
+    "id": 38,
+    "title": "Green Vanguard Week",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Green Vanguard Week (1).webp"
+  },
+  {
+    "id": 39,
+    "title": "Green Vanguard Week",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Green Vanguard Week (2).webp"
+  },
+  {
+    "id": 40,
+    "title": "Hack for Change",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Hack for Change (1).webp"
+  },
+  {
+    "id": 41,
+    "title": "Hack for Change",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Hack for Change (2).webp"
+  },
+  {
+    "id": 42,
+    "title": "Innovation Expo",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Innovation Expo (1).webp"
+  },
+  {
+    "id": 43,
+    "title": "Innovation Expo",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Innovation Expo (2).webp"
+  },
+  {
+    "id": 44,
+    "title": "Innovation Expo",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Innovation Expo (3).webp"
+  },
+  {
+    "id": 45,
+    "title": "Inter-University Football Cup",
+    "year": "2026",
+    "category": "Sports",
+    "imageUrl": "public/assets/gallery/Inter-University Football Cup (1).webp"
+  },
+  {
+    "id": 46,
+    "title": "Inter-University Football Cup",
+    "year": "2026",
+    "category": "Sports",
+    "imageUrl": "public/assets/gallery/Inter-University Football Cup (2).webp"
+  },
+  {
+    "id": 47,
+    "title": "LitFest Vanguard",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/LitFest Vanguard (1).webp"
+  },
+  {
+    "id": 48,
+    "title": "LitFest Vanguard",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/LitFest Vanguard (2).webp"
+  },
+  {
+    "id": 49,
+    "title": "Music & Arts Gala",
+    "year": "2026",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Music & Arts Gala (1).webp"
+  },
+  {
+    "id": 50,
+    "title": "Music & Arts Gala",
+    "year": "2026",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/Music & Arts Gala (2).webp"
+  },
+  {
+    "id": 51,
+    "title": "New Year Music Night",
+    "year": "2025",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/New Year Music Night (1).webp"
+  },
+  {
+    "id": 52,
+    "title": "New Year Music Night",
+    "year": "2025",
+    "category": "Cultural",
+    "imageUrl": "public/assets/gallery/New Year Music Night (2).webp"
+  },
+  {
+    "id": 53,
+    "title": "Research Poster Day",
+    "year": "2024",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Research Poster Day (1).webp"
+  },
+  {
+    "id": 54,
+    "title": "Research Poster Day",
+    "year": "2024",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Research Poster Day (2).webp"
+  },
+  {
+    "id": 55,
+    "title": "Spring Basketball Tournament",
+    "year": "2026",
+    "category": "Sports",
+    "imageUrl": "public/assets/gallery/Spring Basketball Tournament (1).webp"
+  },
+  {
+    "id": 56,
+    "title": "Spring Basketball Tournament",
+    "year": "2026",
+    "category": "Sports",
+    "imageUrl": "public/assets/gallery/Spring Basketball Tournament (2).webp"
+  },
+  {
+    "id": 57,
+    "title": "Startup Pitch Night",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Startup Pitch Night (1).webp"
+  },
+  {
+    "id": 58,
+    "title": "Startup Pitch Night",
+    "year": "2026",
+    "category": "Academic",
+    "imageUrl": "public/assets/gallery/Startup Pitch Night (2).webp"
+  },
+  {
+    "id": 59,
+    "title": "Wellness Week",
+    "year": "2026",
+    "category": "Health",
+    "imageUrl": "public/assets/gallery/Wellness Week (1).webp"
+  },
+  {
+    "id": 60,
+    "title": "Wellness Week",
+    "year": "2026",
+    "category": "Health",
+    "imageUrl": "public/assets/gallery/Wellness Week (2).webp"
+  },
+  {
+    "id": 61,
+    "title": "Wellness Week",
+    "year": "2026",
+    "category": "Health",
+    "imageUrl": "public/assets/gallery/Wellness Week (3).webp"
+  },
+  {
+    "id": 62,
+    "title": "Winter Marathon",
+    "year": "2025",
+    "category": "Sports",
+    "imageUrl": "public/assets/gallery/Winter Marathon (1).webp"
+  },
+  {
+    "id": 63,
+    "title": "Winter Marathon",
+    "year": "2025",
+    "category": "Sports",
+    "imageUrl": "public/assets/gallery/Winter Marathon (2).webp"
+  }
+]
